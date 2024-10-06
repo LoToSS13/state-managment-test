@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+/// Задание 1. Написать [ChangeNotifier] для изменения состояния счетчика
+///
+/// В приложении не должно использоваться [setState]
+
 void main() {
   runApp(const MyApp());
 }
